@@ -3,6 +3,7 @@
   "version": "1.0.4",
   "main": "./dist/angular-google-maps.js",
   "dependencies": {
+  	"lodash": "*",
     "angular": "~1.2.2"
   },
   "devDependencies": {
